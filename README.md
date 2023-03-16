@@ -32,7 +32,7 @@ Project created following the second module of Rocketseat's ReactJS course. In t
 
 ## 📁 Modules
 
-- [ ] Application structure
+- [x] Application structure
 - [ ] Pages and routes
 - [ ] Forms
 - [ ] Application functionalities
