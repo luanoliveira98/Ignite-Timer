@@ -1,5 +1,5 @@
-<h1 align="center"> React JS SPAs </h1>
-<p align="center">Using ContextAPI, useReducer, immer and other tools </p>
+<h1 align="center"> Ignite Timer </h1>
+<p align="center">ReactJS application using ContextAPI, useReducer, immer and other tools </p>
 
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/luanoliveira98/ReactJS-SPAs?color=%2304D361"/>
